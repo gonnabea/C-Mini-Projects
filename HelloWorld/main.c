@@ -4,6 +4,6 @@
 /* run this program using the console pauser or add your own getch, system("pause") or input loop */
 
 int main(int argc, char *argv[]) {
-	printf("¾È³ç Áö¿ø!");
+	printf("Hello World!");
 	return 0;
 }

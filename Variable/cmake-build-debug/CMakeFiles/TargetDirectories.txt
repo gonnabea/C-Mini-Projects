@@ -1,0 +1,3 @@
+C:/Users/Public/C/Variable/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Public/C/Variable/cmake-build-debug/CMakeFiles/Variable.dir
+C:/Users/Public/C/Variable/cmake-build-debug/CMakeFiles/edit_cache.dir
